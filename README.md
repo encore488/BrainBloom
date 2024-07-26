@@ -11,7 +11,7 @@ The Goal: Create an app and website that fully harnesses AI as a tool in the fig
 It also wouldn't hurt to make it fun to use. 😉
 
 
-The Team: Lori Langdon, Will Morgan, Ross Carvalho, Kaanjaree Nune, Vishwa Reddy, Hanane Abkar, Christopher Williams.
+The Team: Hanane Abkar, Ross Carvalho, Vishwa Teja Reddy Dontireddy, Lori Langdon, Will Morgan, Kaanjaree Nune, Christopher Williams.
 
 
 The Audience: Anyone who is concerned about Dementia and wants to prevent or mitigate it, whether it be for themselves or for a loved one.
